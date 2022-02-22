@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer of a letter to a member of the convention</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25500</idno>
+            <idno type="STC">Wing A3283A</idno>
+            <idno type="STC">ESTC R224379</idno>
+            <idno type="EEBO-CITATION">31354688</idno>
+            <idno type="OCLC">ocm 31354688</idno>
+            <idno type="VID">110229</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110229)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1734:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer of a letter to a member of the convention</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div n="letter" type="answer">
+            <pb facs="tcp:110229:1"/>
+            <pb n="1" facs="tcp:110229:1" rendition="simple:additions"/>
+            <head>An ANSWER of a LETTER TO A Member of the CONVENTION.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Thank you for <hi>chooſing rather to write than to leave all to a perſo<g ref="char:EOLhyphen"/>nal Conference in Town,</hi> ſince Orders from above have prevented our meeting ſuddenly here by ten Miles.</p>
+            <p>You ſay, <hi>you will not diſpute with me about what is paſt or what is to come;</hi> ſo I perceive, without weighing either the cauſes or conſequences of things, I am upon implicit faith obliged to your Dictates, what <hi>my own and the Nations Intereſt</hi> muſt be. But if <hi>you will not diſpute,</hi> what will become of <hi>your Argument among others, that Intereſt is moſt apt to prevail:</hi> I thank you for your indiſputable Argument.</p>
+            <p>
+               <hi>I am come to</hi> London, <hi>and find no diſtractions nor diviſions in mens Counſels, the threatning dangers of Popery are daily a leſs formidable proſpect to conſidering men, ſince old animoſities are buried, and new ones ſuppreſt, ſince men are neither acted by ambition nor revenge, the Diſſenter being ready to ſupport the Church, and the Commonwealths man to maintain Monarchy;</hi> ſo merciful has the Lord been to us all.</p>
+            <p>
+               <hi>I readily confeſs it is the Common Intereſt to have things ſettled upon ſuch a bottom as is moſt likely to laſt; and I will conſult Law and Conſcience in the matter.</hi> And ſince much depends upon <hi>the good liking of free and moral Agents, and ſo many Hundred Thouſands are to be ſatisfied,</hi> waving your dangerous and uncertain Experiment, I cannot gueſs better <hi>at the prevailing opinion,</hi> than <hi>by the major vote of a Convention,</hi> which I much prefer to your private Opinion.</p>
+            <p>Of the <hi>different Projects,</hi> which you ſay are <hi>now on foot,</hi> viz. <hi>To ſend for the King, and treat with him to return to the Government under re<g ref="char:EOLhyphen"/>ſtraints, and if he will not conſent to this, to make the next Heir Regent; To declare the Crown forfeited or demiſed, and proclaim the Princeſs of</hi> Orange; <hi>To declare the Government diſſolved, and begin all</hi> de novo,
+<pb n="2" facs="tcp:110229:2"/>
+               <hi>and make the Prince of</hi> Orange <hi>King, or crown him and the Princeſs</hi> to<g ref="char:EOLhyphen"/>gether, and <hi>poſtpone the Title of the Princeſs</hi> Anne, <hi>till after the Princes death, if he ſurvive the Princeſs:</hi> You think <hi>the firſt will be the firmeſt foundation for the peace and ſettlement of theſe Nations.</hi>
+            </p>
+            <p>
+               <hi>This,</hi> I tell you, <hi>is horribly decried, and all men of the opinion may reaſonably be expoſed as Friends to Popery and Arbitrary Power.</hi> And till you tell me what <hi>the Laws are you could frame, which ſhould put it ut<g ref="char:EOLhyphen"/>terly out of the Kings power to invade our Liberties or Religion,</hi> I take <hi>all Treaty with the King to be in vain, it being impoſſible he ſhould give any ſecurity to the Nation, that he would govern by Law,</hi> except Faith be to be kept with Hereticks. Then I am ſure the refuſal of a Treaty can be no foundation of thoſe <hi>Univerſal Diſcontents</hi> you talk of, except by <hi>Univerſal</hi> you mean <hi>Catholick,</hi> which ſhew themſelves without occa<g ref="char:EOLhyphen"/>ſion. However, multitudes of People are obliged to you for their ſatisfaction, when having once burnt their fingers, you adviſe men for experiment of a cure, to put them into the fire again.</p>
+            <p>Where you call the ſupplying the Throne, <hi>a Fundamental change in the Government,</hi> you take, I doubt, the Tradition of the twelve Jud<g ref="char:EOLhyphen"/>ges for equal authority with the letter of the twelve Tables, not con<g ref="char:EOLhyphen"/>ſidering that the Government is founded upon the Office of a King and upon the legal adminiſtration of it, not upon any one mans per<g ref="char:EOLhyphen"/>ſon, (otherwiſe his death would diſſolve the Government.) What Fundamental change in the Government then can there be, that the executive power of the Law, which the King would not adminiſter, be committed to a Perſon who will put the Laws in execution? If you queſtion the Legality of the power of a Convention of the Eſtates of a Kingdom to transfer this high truſt, becauſe violated, to one who will inviolably conſerve it; I muſt tell you, when the Prerogative is crackt, we are under Obligation to the Priviledges of the People, which if you diſpute, you may have a fair hearing in this Convention. But firſt read <hi>Edward</hi> the Second, and <hi>Richard</hi> the Second's caſe, who were both depoſed by the People for male Adminiſtration, and their next Succeſſors were held to be Lawful Kings, when confirmed by Acts of Parliament of their own ſigning. And Sir, King <hi>Charles</hi> the Second taught the Legality of the fact, when he approved of the de<g ref="char:EOLhyphen"/>poſing his Brother in Law of <hi>Portugal</hi> by his own Subjects, and the placing the younger Brother upon the Throne.</p>
+            <p n="1">1. Then hector and ſwear as many <hi>Oaths of Allegiance</hi> as you pleaſe, this will not ſave the <hi>forfeiture or demiſe</hi> of your Maſters <hi>Crown,</hi> who <hi>is fled out of his Kingdoms</hi> for ſomething more than <hi>the ſafety of his Per<g ref="char:EOLhyphen"/>ſon.</hi> But to be plain with you, under an apprehenſion that our Religion
+<pb n="3" facs="tcp:110229:2" rendition="simple:additions"/>and Laws were utterly to be ſubverted, I was one that invited the Prince of <hi>Orange</hi> over to maintain them: When his Highneſs came, I entred into an Aſſociation to maintain them and preſerve him to my power. If then, <hi>Intereſt</hi> (as you advertiſe) <hi>muſt prevail,</hi> I deſire you to give me better ſecurity for Religion and Liberty in general, and to do one favour more for your Friend in particular <hi>(i. e.)</hi> to procure a huge long Pardon for any thing that Arbitrary Power can interpret either High Treaſon or Miſdemeanor. Do this, and have at you. But</p>
+            <p n="2">2. When you write next, be ſo kind as to ſhew me one <hi>of thoſe thou<g ref="char:EOLhyphen"/>ſand occaſions of Diſcontent, which no body can poſſibly foreſee.</hi>
+            </p>
+            <p>You forebode <hi>diſcontents in the new Court about Preferments.</hi> To pleaſe the good and bad, is not an attribute of the Almighty, much leſs then is it in the power of any of his ſervants to pleaſe all. But in that Court where Preferments are diſpoſed according to merit not money, no man of Honour or any Worth can have reaſon to reſent the rewarding of the Virtuous. <hi>This then,</hi> you mean, <hi>may be an occa<g ref="char:EOLhyphen"/>ſion of Diſcontent, which no body can poſſibly foreſee.</hi>
+            </p>
+            <p>Oh! But you foreſee a Tax. And <hi>I am willing to defray the charge of this Expedition, and will pay my proportion very chearfully and thank<g ref="char:EOLhyphen"/>fully to the Prince for reſtoring to us our Religion, Laws and Liberties.</hi> But what's all this to you? Your Maxim is, <hi>No King, no Money.</hi>
+            </p>
+            <p>
+               <hi>But there is a greater difficulty than all this:</hi> No King, no Biſhop: How fairly do you intimate, that while <hi>thoſe of the Church of</hi> England <hi>are getting rid of Popery, they muſt part with their Church into the Bargain? The ſeveral ſects of Diſſenters are glad to get rid of Popery alſo.</hi> By your own confeſſion they are agreed againſt Popery; when then think you will they agree to recall the King? As for the formidable Parties of Church-men and Diſſenters, which you conjure up in <hi>Battalia</hi> one a<g ref="char:EOLhyphen"/>gainſt another, they muſt yet paſs for things which <hi>no body can poſſibly foreſee.</hi> And by the next return of the Carrier, I pray ſend me your Proſpective, by help of which you took a view of <hi>the Standing Army</hi> you fright us with. But tell me alſo, when the Conqueror comes.</p>
+            <p>
+               <hi>Secondly, I ſuppoſe this will be over voted,</hi> (<hi>I am ſure it is anſwered,</hi> you have engaged <hi>not to diſpute with me about what is paſt or what is to come</hi>) and whomſoever <hi>the Convention reſolve to proclaim.</hi>
+            </p>
+            <p n="1">1. <hi>You may be ſure they will throughly examine the Pretences of the Prince of</hi> Wales. <hi>How fond ſoever your People may be of ſuch a male Heir to the Crown, and how well ſoever you have inſtructed common fame to ſpeak of him;</hi> with the Deponents good leave, his Title muſt ſubmit to a <hi>Melius inquirendum.</hi> And the notoriety of his Birth is ſo evident, that why any intelligent man ſhould be diſcontented at his praeterition, <hi>no body can poſſibly foreſee.</hi>
+            </p>
+            <pb n="4" facs="tcp:110229:3" rendition="simple:additions"/>
+            <p n="2">2. <hi>Suppoſing the Princeſs of</hi> Orange <hi>ſhould appear to be the next Heir,</hi> you Addreſs her as a Woman, in terms of Religion. You Catechize her, <hi>Would not ſhe ſcruple to ſit upon her Fathers Throne, while he lives? If ſhe do not now, may ſhe not hereafter.</hi> O Virtue! Virtue! You pray for <hi>(and for my part, I think you put a very hard thing upon) ſo excel<g ref="char:EOLhyphen"/>lent a Lady,</hi> that ſhe may not be Queen, <hi>you pray God give her grace to reſiſt the temptation.</hi> Your Creed, or the ſum of your Law and your Prophets, is Paſſive Obedience and Non-reſiſtance. This, I perceive is your Politick Liturgy; and your Book of Rates for Crowns and Subjects is calculated accordingly.</p>
+            <p>Thirdly, After all your Complements to the Prince of <hi>Orange,</hi> that a Crown would ſtain his Glory. Let me tell you, Crowns were never made but for heads that know how to wear them. To ſuch as know not, we find them a diſhonour; but to wiſe and good men a glory. And is it not ridiculous in you to plead Law in favour of thoſe who have been manifeſt ſubverters of all Law? Let thoſe that are aggrie<g ref="char:EOLhyphen"/>ved, appear before the Convention, and I aſſure them of Law, with<g ref="char:EOLhyphen"/>out any <hi>non obſtante</hi> from the Prince or his Adherents. In vain then are all your Complaints of breach of Law.</p>
+            <p>If you cannot ſtir up the whole Kingdom to diſcontent upon <hi>occa<g ref="char:EOLhyphen"/>ſions not poſſible to be foreſeen,</hi> but by your directions; yet you would fain give interruption to the Union of the Royal Family. As if you knew the Intereſt of the Prince and the Princeſs of <hi>Denmark</hi> better than themſelves, when they quitted their Father's intereſt for their Brother's the Prince of <hi>Orange.</hi> I admire your confidence in queſtion<g ref="char:EOLhyphen"/>ing the Legal Authority of a Convention of the Eſtates, when you may live to ſee their Acts legally confirmed by that very King, who by their power is ſo conſtituted: For if a King <hi>de facto</hi> be a King <hi>de jure,</hi> as by our Law he is, take care your queſtioning Legal Authority be not accounted to you for Treaſon.</p>
+            <div n="postscript" type="answer">
+               <head>An Anſwer to the Poſtcript.</head>
+               <p>
+                  <hi>You ſay, if the ſtory of the</hi> French League to cut Proteſtant Throats, <hi>upon due examina<g ref="char:EOLhyphen"/>tion ſhould prove a ſham: becauſe this did more to drive the King out of the Nation, than the Prince's Army, it ſeems at leaſt half an Argument to invite the King back again.</hi> But buſineſs muſt not be done by halves. You may remember <hi>Mounſieur d'Avaux</hi> not many Months ago, did in his Memorial to the States General aſſure them of the ſtricteſt Alliances be<g ref="char:EOLhyphen"/>tween the <hi>French</hi> King and ours, which is a full whole Argument for it, And the late Interview of thoſe two Kings at <hi>Paris,</hi> makes a publick ſhow to the world of an intimate underſtanding between them; there is another, and if you conſider it, a ſwindger. Thus at Argument, I have outleap'd you two lengths and a half, never to invite the King back againſt know <hi>we are a Convention we have Authority and the good liking of the Peo<g ref="char:EOLhyphen"/>ple: ſo I hope we ſhall take care to do nothing but what will juſtify it ſelf to God and our Countrey,</hi> As for the King, he being a Party. God Almighty will judge between us but if ever he be invited to <hi>England</hi> by me, you ſhall have the honour of carrying the Meſſage.</p>
+               <closer>With Allowance.
+<signed>I am Yours.</signed>
+               </closer>
+               <pb facs="tcp:110229:3"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
